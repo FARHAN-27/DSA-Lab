@@ -1,0 +1,7 @@
+for selection sort = 
+Time taken by function: 61 microseconds
+69383
+40886
+52777
+56915
+77793
